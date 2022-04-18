@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheIcySnicy
 - 👀 I’m interested in Coding (Duh)
 - 🌱 I’m currently learning Node.Js, Java, HTML 
-- 💞️ I’m looking to collaborate on: Idk, DIscord bots...
+- 💞️ I’m looking to collaborate on: Idk, Discord bots...
 - 📫 How to reach me: My Discord is Lemonade#1000
 
 <!---

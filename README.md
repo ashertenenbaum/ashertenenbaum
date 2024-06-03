@@ -1,6 +1,7 @@
 <h1 align="left">hi</h1>
-i have a super cool [website](https://ashertenenbaum.com) 
-[youtube videos](https://www.youtube.com/FaceDevStuff)
+i have a super cool [OpenAI](https://www.openai.com)
+
+
 
 
 #1 pineapple pizza hater

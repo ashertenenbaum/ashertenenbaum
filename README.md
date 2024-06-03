@@ -1,6 +1,6 @@
 <h1 align="left">hi</h1>
 
-I have a super cool [OpenAI](https://www.openai.com).
+I have a super cool [website](https://ashertenenbaum.com).
 
 \#1 pineapple pizza hater
 
